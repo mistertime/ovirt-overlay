@@ -9,7 +9,7 @@ inherit python-r1 java-pkg-opt-2
 
 DESCRIPTION="oVirt Task Oriented Pluggable Installer/Implementation"
 HOMEPAGE="http://www.ovirt.org"
-SRC_URI="http://resources.ovirt.org/pub/src/${PN}/${P}.tar.gz"
+SRC_URI="https://github.com/oVirt/otopi/archive/${P}.tar.gz"
 
 LICENSE="GPL-2+"
 SLOT="0"
