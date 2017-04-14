@@ -10,7 +10,7 @@ inherit git-2 autotools
 
 DESCRIPTION="oVirt Task Oriented Pluggable Installer/Implementation"
 HOMEPAGE="http://www.ovirt.org"
-EGIT_REPO_URI="git://gerrit.ovirt.org/${PN}.git"
+EGIT_REPO_URI="https://github.com/oVirt/otopi.git"
 
 LICENSE="GPL-2+"
 SLOT="0"
